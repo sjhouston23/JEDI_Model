@@ -1,0 +1,4 @@
+Photon Energy [eV] Normalized Photons/Ion
+     381.257             8.000E-01
+     407.173             1.500E-01
+     511.136             5.000E-02

@@ -1,0 +1,23 @@
+[00]000363<?xml version="1.0" encoding="UTF-8"?>
+<stream>
+    <properties CONTEXT_0="Time=2016-08-27T11:30:00.000Z"
+        DEPEND_0="Energy[9] (keV)" FILL_VALUE="-1.0E31"
+        LABEL="O+S, O!CIntensity (c/s/ster/cm^2/keV)" NAME="Intensity"
+        TITLE="JED900THXL06 O (379.750,592.300) keV ...!CEnergy Spectrogram configuration" UNITS="c/s/ster/cm^2/keV"/>
+</stream>
+[01]000145<?xml version="1.0" encoding="UTF-8"?>
+
+<packet>
+    <x type="ascii14" units="keV"/>
+    <y type="ascii14" units="c/s/ster/cm^2/keV"/>
+</packet>
+
+:01: +1.706600E02 +2.713468E-01
+:01: +2.402650E02 +7.621012E-02
+:01: +3.236000E02 +2.040097E-01
+:01: +4.765250E02 +3.708153E-02
+:01: +7.464550E02 +1.334189E-02
+:01: +9.563150E02 +1.497848E-02
+:01: +1.690000E03 +1.132947E-02
+:01: +3.490000E03 +4.229311E-03
+:01: +7.300000E03 +3.989296E-03

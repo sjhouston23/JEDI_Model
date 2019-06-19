@@ -1,0 +1,25 @@
+[00]000358<?xml version="1.0" encoding="UTF-8"?>
+<stream>
+    <properties CONTEXT_0="S, S S Time=2017-07-11T01:19:00.000Z"
+        DEPEND_0="Energy[5] (keV)" FILL_VALUE="-1.0E31"
+        LABEL="S!CIntensity (c/s/ster/cm^2/keV)"
+	NAME="Intensity"
+        TITLE="JED900THXL12 S (495.030,753.370) keV ...!CEnergy Spectrogram configuration" UNITS="c/s/ster/cm^2/keV"/>
+</stream>
+
+[01]000145<?xml version="1.0" encoding="UTF-8"?>
+<packet>
+    <x type="ascii14" units="keV"/>
+    <y type="ascii14" units="c/s/ster/cm^2/keV"/>
+</packet>
+
+:01: +1.706600E02  +3.747799E02
+:01: +2.402650E02  +5.095006E02
+:01: +3.236000E02  +4.184278E02
+:01: +4.765250E02  +1.355297E02
+:01: +7.464550E02  +1.038797E02
+:01: +9.563150E02  +6.936027E01
+:01: +1.240355E03  +4.219434E01
+:01: +1.930355E03  +1.617549E01
+:01: +3.490000E03  +2.586384E00
+:01: +7.300000E03 +3.187770E-01

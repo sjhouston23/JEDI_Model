@@ -1,3 +1,5 @@
+# JEDI_Model
+
 This directory has all of the programs used to produce X-ray spectra from oxygen and sulfur precipitation based on synthetic spectra from Hui et al., 2019.
 
 To run this program, you use the following command:
